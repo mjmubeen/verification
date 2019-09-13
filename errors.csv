@@ -1,0 +1,4 @@
+,col
+0,"{row: 1, column: ""Special price""}: ""nan"" is not integer"
+1,"{row: 2, column: ""Price""}: ""x"" is not integer"
+2,"{row: 2, column: ""Special price""}: ""nan"" is not integer"
