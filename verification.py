@@ -11,6 +11,7 @@ def check_int(num):
     except ValueError:
         return False
     return True
+    
 def do_validation():
     # read the data
     data = pd.read_csv('noon.csv')
